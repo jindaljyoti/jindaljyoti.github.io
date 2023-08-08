@@ -1,0 +1,57 @@
+
+.header {
+    
+    background-image: url("C:\\Users\\satis\\Codeacademy\\Dasmoto's Arts & Crafts\\resources\\images\\pattern.jpeg");
+    /* height: 0px; */
+    margin-top: 120px;
+    font-family: Helvetica, sans-serif;
+    font-size: 70px;
+    text-align: center;
+    color: khaki;
+    position: relative;
+    top: -50px;
+}
+
+.brush {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    color:white;
+    background-color: mediumspringgreen;
+    margin-top: -50px;
+
+}
+
+.saw,.art {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+
+.frame{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    color: white;
+    background-color: lightcoral;
+}
+
+.paint {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    color: white;
+    background-color: skyblue;
+}
+
+.clean {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bold {
+    font-weight: bold;
+}
